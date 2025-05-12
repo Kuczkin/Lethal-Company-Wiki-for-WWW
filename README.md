@@ -35,8 +35,3 @@ działający komputer
 
 
 4. Dokumentacja:
-
-
-Zadanie można wykonać w grupach 2-3 osobowych.
-
-<sup>w grupie jest Stanisław x2 i Michał Kuczkin</sup>
