@@ -5,12 +5,17 @@ strona do gry “Lethal Company”
 
 Wymagania funkcjonalne:
 1. **Struktura strony**: 
- - header
- - base
- - footer
+ - Strona główna
+ - Kategorie:
+   - Księżyce
+   - Potwory
+   - Lokacje
+   - Przedmioty
+   - Mody
+   
 
 2. **Technologie**: 
- - Html
+ - HTML
  - Typescript
  - Sass
  - React
